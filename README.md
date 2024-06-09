@@ -15,7 +15,7 @@ that discourage, exhaust, or otherwise negatively affect other participants.
 
 **This project has a [Code of Conduct][].**
 
-## Table of contents
+## Table of contents (wow, this is a lot!)
 
 * [Support](#support)
 * [Release types](#release-types)
